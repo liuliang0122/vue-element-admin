@@ -17,6 +17,10 @@ export default {
   name: 'App',
   created() {},
   methods: {
+    // 添加gituse方法
+    gituse() {
+      
+    },
     clickInit() {
       // initFn()
       // testFn()
